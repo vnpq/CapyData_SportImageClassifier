@@ -1,0 +1,26 @@
+prompt_text = f"""
+    Hãy tạo ra 5 mô tả ngắn gọn về bức ảnh thể thao này, mỗi mô tả có độ dài tự nhiên trong khoảng 15 từ.
+    
+    📌 **Yêu cầu nội dung**:
+    - Mô tả chi tiết **hành động/động tác** đặc trưng đang diễn ra trong ảnh
+    - Mô tả **vận động viên** (trang phục, tư thế, vị trí) nhưng KHÔNG đề cập tên riêng của vận động viên/đội
+    - Mô tả **môi trường/bối cảnh** (sân đấu, thời tiết, không gian) nếu có thể nhận biết
+    - Xác định chính xác **môn thể thao** và nêu các đặc trưng tiêu biểu của môn đó
+    - TUYỆT ĐỐI KHÔNG sử dụng tên riêng của vận động viên, đội bóng, CLB hoặc số tự nhiên
+    
+    📌 **Phong cách viết**:
+    - Sử dụng ngôn ngữ sinh động, chuyên môn về thể thao
+    - Tập trung vào các thuật ngữ đặc thù của môn thể thao đó
+    - Viết như một bình luận viên thể thao chuyên nghiệp
+    - Viết hoàn toàn bằng tiếng Việt
+    - KHÔNG sử dụng tiếng Anh (kể cả thuật ngữ thể thao) 
+    
+    📌 **Format kết quả** (tuân thủ chặt chẽ, KHÔNG để dòng trắng, thừa dòng):
+    [{file_name}]\t[caption 1]
+    [{file_name}]\t[caption 2]
+    [{file_name}]\t[caption 3]
+    [{file_name}]\t[caption 4]
+    [{file_name}]\t[caption 5]
+    
+    Dưới đây là ảnh cần mô tả:
+"""
