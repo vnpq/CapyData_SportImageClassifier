@@ -1,7 +1,3 @@
-
-
-
-
 archery_0.jpg	Vận động viên nữ giương cung nhắm chuẩn vào bia, tập luyện trên sân bắn ngoài trời rực nắng.
 archery_0.jpg	Tay cung giữ tư thế ổn định, ánh mắt tập trung cao độ hướng về hồng tâm phía trước.
 archery_0.jpg	Người chơi bắn cung sử dụng cung tiêu chuẩn, thực hiện động tác kéo dây chuẩn xác đầy quyết tâm.
@@ -232,11 +228,6 @@ archery_21.jpg	Môi trường sân tập được chuẩn bị kỹ lưỡng, ma
 archery_21.jpg	Các vận động viên chăm chú điều chỉnh cung để đạt hiệu suất tối đa trong từng phát bắn.  
 archery_21.jpg	Các cung tên có thiết kế hiện đại, thể hiện sự kết hợp hoàn hảo giữa nghệ thuật và kỹ thuật.  
 archery_21.jpg	Khung cảnh thể thao tĩnh lặng, chỉ có thể nghe thấy tiếng dây cung khi căng lên.  
-archery_21.jpg     Bối cảnh chuẩn bị cho cuộc thi bắn cung, không khí đầy hồi hộp và căng thẳng.  
-archery_21.jpg     Các cung thủ đang chuẩn bị, những chiếc cung được đặt ngay ngắn trên sân cỏ.  
-archery_21.jpg     Hình ảnh các chiếc cung được bố trí đồng đều, thể hiện tinh thần thi đấu tập trung.  
-archery_21.jpg     Mặt sân cỏ xanh mướt làm nổi bật những chiếc cung sắc màu, sẵn sàng cho cuộc chiến.  
-archery_21.jpg     Những chiếc cung mang tính nghệ thuật, sẵn sàng cho những mũi tên bay cao.  
 archery_22.jpg	Vận động viên thể hiện kỹ thuật nhắm bắn đầy quyết đoán trong bộ trang phục ngụy trang.
 archery_22.jpg	Góc chụp cho thấy động tác kéo cung chuẩn xác, tư thế mạnh mẽ trên địa hình hiểm trở.
 archery_22.jpg	Cảnh nền thiên nhiên hoang dã, tạo nên khung cảnh tuyệt đẹp cho môn bắn cung đầy mê hoặc.
@@ -1376,12 +1367,7 @@ badminton_59.jpg	Một vận động viên cao lớn đang xuất phát với c�
 badminton_59.jpg	Vận động viên ở phía trước chuẩn bị chèo cầu, mắt tập trung vào trái cầu bay.  
 badminton_59.jpg	Trong khoảnh khắc quyết định, ván cầu lướt nhẹ giữa hai vận động viên trên sân.  
 badminton_59.jpg	Vận động viên nhảy lên cao, thể hiện sức mạnh vượt trội trong môn cầu lông.  
-badminton_59.jpg	Cặp đôi thi đấu quyết liệt, không khí trong sân bùng nổ với từng pha cầu hấp dẫn.  
-badminton_59.jpg Cả hai vận động viên thể hiện kỹ thuật điêu luyện, trong bầu không khí sôi động của trận đấu.  
-badminton_59.jpg Cầu thủ nam bay lên cao, thực hiện cú đập cầu mạnh mẽ, tạo nên sự hồi hộp cho khán giả.  
-badminton_59.jpg Trang phục đồng bộ cùng phong cách thi đấu quyết liệt là điểm nhấn của trận cầu lông này.  
-badminton_59.jpg Vận động viên nữ đang chuẩn bị cú đánh, thể hiện sự tập trung tuyệt đối tại sân đấu.  
-badminton_59.jpg Đôi cầu thủ đang thi đấu quyết liệt trong một trận cầu lông kịch tính tại một nhà thi đấu.  
+badminton_59.jpg	Cặp đôi thi đấu quyết liệt, không khí trong sân bùng nổ với từng pha cầu hấp dẫn. 
 badminton_6.jpg	Một vận động viên đang thực hiện động tác phát cầu mạnh mẽ trên sân cầu lông.
 badminton_6.jpg	Người chơi trong trang phục thể thao, chuẩn bị cho cú đánh cầu chủ lực đầy sức mạnh.
 badminton_6.jpg	Ánh sáng rực rỡ chiếu vào sân khi vận động viên thực hiện động tác phát cầu tinh tế.
@@ -1441,7 +1427,7 @@ badminton_7.jpg	Người chơi nhảy cao, thực hiện cú giao cầu mạnh m
 badminton_7.jpg	Vận động viên mặc áo thi đấu màu tím, đang lao lên để dứt điểm cầu.  
 badminton_7.jpg	Cú vung vợt quyết đoán, cầu lông bay cao giữa không gian tối, tạo nên khoảnh khắc ấn tượng.  
 badminton_7.jpg	Vận động viên thể hiện kỹ năng điêu luyện với tư thế nhảy và tay vung vợt chuẩn xác.  
-badminton_7.jpg   Không khí căng thẳng của môn cầu lông được khắc họa qua hành động dứt điểm mãnh liệt.  
+badminton_7.jpg	Không khí căng thẳng của môn cầu lông được khắc họa qua hành động dứt điểm mãnh liệt.  
 badminton_70.jpg	 Vận động viên đang thực hiện cú giao cầu mạnh mẽ, chuẩn bị đón nhận cầu.  
 badminton_70.jpg	 Trong tư thế chuẩn bị, cô ấy thể hiện sự tập trung tốt cho cú đánh tiếp theo.  
 badminton_70.jpg	 Mặt sân sáng đèn, cầu đang bay cao, tạo nên không khí hấp dẫn trong trận đấu.  
@@ -1606,7 +1592,7 @@ baseball_0.jpg	Hình ảnh vận động viên đang toàn lực vung gậy, chu
 baseball_0.jpg	Với tư thế vững chãi, vận động viên nhằm mục tiêu bóng một cách chính xác.  
 baseball_0.jpg	Vận động viên khoác trang phục trắng, nhấn mạnh phong cách chuyên nghiệp và sự tự tin.  
 baseball_0.jpg	Ánh đèn sân khấu sáng rực, làm nổi bật khoảnh khắc quyết định của trận đấu.
-baseball_0.jpg Trong không khí căng thẳng, người chơi thể hiện kỹ năng đánh bóng tuyệt vời trên sân.  
+baseball_0.jpg	Trong không khí căng thẳng, người chơi thể hiện kỹ năng đánh bóng tuyệt vời trên sân.  
 baseball_1.jpg	Vận động viên đang thực hiện cú đánh mạnh mẽ với cây gậy trên sân bóng chày.
 baseball_1.jpg	Cầu thủ mặc áo sọc trắng xoay người tung cú đánh quyết định trong trận đấu kịch tính.
 baseball_1.jpg	Người bắt bóng đang chuẩn bị đón nhận quả bóng với tư thế nghiêm túc trước cú đánh tới.
@@ -2045,8 +2031,8 @@ baseball_76.jpg	Cảnh tượng sinh động nơi sân bóng, nơi niềm đam m
 baseball_77.jpg	Vận động viên đang thực hiện một cú đánh mạnh mẽ bằng gậy baseball trên sân.  
 baseball_77.jpg	Nhà chọi tạo dáng hoàn hảo với gậy trong tay, tập trung tinh thần vào bóng.  
 baseball_77.jpg	Cú swing đầy sức mạnh diễn ra tại sân vận động chói sáng dưới bầu trời xanh.  
-baseball_77.jpg	Môi trường sân bóng sôi động, vận động viên trong trang phục trắng chuẩn bị ghi điểm.  
-baseball_77.jpgÁnh đèn rực rỡ chiếu sáng sân, tạo nên khung cảnh lý tưởng cho một trận baseball đỉnh cao.  
+baseball_77.jpg	Môi trường sân bóng sôi động, vận động viên trong trang phục trắng chuẩn bị ghi điểm.   
+baseball_77.jpg	Ánh đèn rực rỡ chiếu sáng sân, tạo nên khung cảnh lý tưởng cho một trận baseball đỉnh cao. 
 baseball_78.jpg	Vận động viên ném bóng mạnh mẽ từ vị trí trên đ mound, thể hiện sự tập trung cao độ.  
 baseball_78.jpg	Trong trang phục sọc trắng, vận động viên gian nan tạo động tác ném bóng chuẩn xác, tự tin.  
 baseball_78.jpg	Dưới bầu trời trong xanh, cầu thủ thể hiện kỹ năng ném bóng mạnh mẽ từ sân bóng đá.  
@@ -2172,11 +2158,6 @@ basketball_0.jpg	Đối thủ nỗ lực cản phá, nhưng cú bật cao này �
 basketball_0.jpg	Môi trường sân bóng sôi động, ánh đèn sáng rực rỡ, khán giả chứng kiến màn tranh đấu.  
 basketball_0.jpg	Vận động viên trong trang phục đỏ nổi bật, thể hiện khả năng vượt trội trên sân.  
 basketball_0.jpg	Cú ném bóng được thực hiện với cực độ, tạo ra khoảnh khắc kịch tính trong trận đấu.  
-basketball_01.jpg	Trận đấu bóng rổ hấp dẫn diễn ra với các cầu thủ đang chạy nhanh về phía rổ.  
-basketball_01.jpg	Các vận động viên đang phối hợp tấn công, khán giả đang cổ vũ cuồng nhiệt.  
-basketball_01.jpg	Vận động viên mặc đồng phục trắng, dribbling bóng, thể hiện kỹ thuật điêu luyện.  
-basketball_01.jpg	Một cầu thủ tiến nhanh lên sân, thể hiện tinh thần cạnh tranh quyết liệt.  
-basketball_01.jpg	Không khí đầy sôi động, người hâm mộ đứng dậy cổ vũ cho đội nhà ghi điểm.  
 basketball_1.jpg	Cả hai vận động viên đang tranh chấp bóng rổ quyết liệt trên sân đấu.
 basketball_1.jpg	Vận động viên trong trang phục trắng đang cố giành lại quyền kiểm soát bóng từ đối thủ.
 basketball_1.jpg	Hai cầu thủ nằm trên mặt sân, cố gắng giành lấy quả bóng rổ trong một pha xử lý nhanh.
@@ -3736,7 +3717,7 @@ cycling_49.jpg	Một nhóm vận động viên chạy xe đạp địa hình dũ
 cycling_49.jpg	Vận động viên đang tạo ra góc nghiêng tuyệt đẹp khi lao dốc giữa đá và không gian hùng vĩ.
 cycling_49.jpg	Các vận động viên tận dụng tốc độ tối đa, khéo léo điều khiển xe trên địa hình hiểm trở.
 cycling_49.jpg	Sự phối hợp hoàn hảo giữa vận động viên và chiếc xe đạp, kết hợp giữ phong cảnh ngoạn mục.
-cycling_49.jpg Với trang phục thể thao nổi bật, các tay đua thể hiện kỹ năng vượt địa hình khó khăn.
+cycling_49.jpg	Với trang phục thể thao nổi bật, các tay đua thể hiện kỹ năng vượt địa hình khó khăn.
 cycling_5.jpg	Người đạp xe đang dừng lại, điều chỉnh tư thế trên chiếc xe nhỏ gọn giữa phố.  
 cycling_5.jpg	Vận động viên toát lên phong cách tự tin trong trang phục đơn giản, chuẩn bị nhấc chân.  
 cycling_5.jpg	Không gian xanh mát xung quanh tạo nên bầu không khí thư giãn cho người đạp xe.  
@@ -4056,12 +4037,7 @@ equestrianism_105.jpg	Một vận động viên cưỡi ngựa chạy trên cỏ
 equestrianism_105.jpg	Cô ấy giữ thăng bằng hoàn hảo, khoác trang phục thể thao chuyên nghiệp và mũ bảo hiểm.  
 equestrianism_105.jpg	Ngựa chuyển động mạnh mẽ, với chân trước nâng cao, biểu thị sức mạnh và sự tự tin.  
 equestrianism_105.jpg	Không khí trong lành và khung cảnh xanh mát làm nổi bật vẻ đẹp của môn thể thao cưỡi ngựa.  
-equestrianism_105.jpg	Vận động viên duy trì tinh thần tập trung cao độ, sẵn sàng cho những thử thách tiếp theo.  
-equestrianism_105.jpg  Không gian thoáng đãng tạo điều kiện thuận lợi cho luyện tập thể thao cưỡi ngựa này.  
-equestrianism_105.jpg  Mẫu người cưỡi ngựa đang thể hiện tư thế vững chãi trên mặt đất cỏ xanh.  
-equestrianism_105.jpg  Ngựa trắng xuất sắc sử dụng sức mạnh, chạy mạnh mẽ cùng người cưỡi chuyên nghiệp.  
-equestrianism_105.jpg  Tư thế ngồi chuẩn xác giúp tối ưu hóa khả năng kiểm soát ngựa trong môn thể thao này.
-equestrianism_105.jpg  Áo và quần cưỡi ngựa của vận động viên thể hiện sự hiện đại trong phong cách thể thao.  
+equestrianism_105.jpg	Vận động viên duy trì tinh thần tập trung cao độ, sẵn sàng cho những thử thách tiếp theo.   
 equestrianism_106.jpg	Người cưỡi ngựa vui vẻ khoác tay lên cổ ngựa trong không gian xanh tươi sáng.  
 equestrianism_106.jpg	Vận động viên đứng bên cạnh ngựa, chuẩn bị cho một buổi tập luyện thú vị.  
 equestrianism_106.jpg	Ngựa xám mạnh mẽ tỏa sáng dưới ánh nắng, sẵn sàng cho những thử thách tiếp theo.  
@@ -4147,11 +4123,11 @@ equestrianism_120.jpg	Con ngựa đang phi nước đại, chân của nó chạ
 equestrianism_120.jpg	Vận động viên cưỡi ngựa giỏi, tư thế vững vàng thể hiện sự tự tin và quyết tâm.  
 equestrianism_120.jpg	Hình ảnh thể hiện sự kết nối mạnh mẽ giữa người và ngựa đang lao nhanh tới phía trước.  
 equestrianism_120.jpg	Trong không gian tối, hành động kịch tính của người cưỡi và ngựa gây ấn tượng mạnh.  
-equestrianism_121.jpg	Người cưỡi ngựa đang thực hiện một cú nhảy cao qua hàng rào, thể hiện khả năng phiêu lưu.  
-equestrianism_121.jpg	Vận động viên trong trang phục thi đấu chuyên nghiệp vừa ra tín hiệu cho ngựa, sẵn sàng tăng tốc.  
+equestrianism_121.jpg	Người cưỡi ngựa đang thực hiện một cú nhảy cao qua hàng rào, thể hiện khả năng phiêu lưu. 
+equestrianism_121.jpg	Vận động viên trong trang phục thi đấu chuyên nghiệp vừa ra tín hiệu cho ngựa, sẵn sàng tăng tốc.
 equestrianism_121.jpg	Ngựa đang nhảy qua hàng rào với tư thế mạnh mẽ, thể hiện sức mạnh và sự phối hợp hoàn hảo.  
 equestrianism_121.jpg	Một cảnh thi đấu đầy kịch tính, ngựa và người cưỡi cùng đồng lòng vượt qua thử thách chướng ngại vật.  
-equestrianism_121.jpg   Thông qua bài diễn tập này, vận động viên thể hiện sự kết hợp ăn ý với ngựa để đạt thành tích xuất sắc.
+equestrianism_121.jpg	Thông qua bài diễn tập này, vận động viên thể hiện sự kết hợp ăn ý với ngựa để đạt thành tích xuất sắc.
 equestrianism_122.jpg	Người cưỡi mặc trang phục đỏ, đang điều khiển ngựa vượt qua chướng ngại vật.  
 equestrianism_122.jpg	Ngựa và người cưỡi bay cao qua hàng rào, thể hiện sự kết hợp hoàn hảo.  
 equestrianism_122.jpg	Với dáng ngồi vững vàng, vận động viên tập trung dẫn dắt ngựa qua chướng ngại vật.  
@@ -4187,11 +4163,6 @@ equestrianism_128.jpg	Người cưỡi ngựa tỏ ra dũng cảm, tư thế v�
 equestrianism_128.jpg	Ngựa mạnh mẽ phi nhanh trên nền đất, mảnh giấy đỏ bay lên từ cú bắn.  
 equestrianism_128.jpg	Cảnh tượng đầy kịch tính khi người điều khiển ngựa thực hiện pha bắn hấp dẫn.  
 equestrianism_128.jpg	Hào hứng diễn ra trong không gian rộng, thể hiện tài năng của người cưỡi ngựa.  
-equestrianism_129.jpg	Một tay máy ảnh đang chuẩn bị ghi lại khoảnh khắc tại cuộc thi thể thao ngoài trời.
-equestrianism_129.jpg	Vận động viên nhiếp ảnh đang tập trung vào khung hình để không bỏ lỡ bất kỳ hành động nào.
-equestrianism_129.jpg	Hình ảnh thể hiện sự chăm chú của người cầm máy trong không gian xanh mát gần sân thi đấu.
-equestrianism_129.jpg	Cận cảnh một người chụp ảnh với bộ thiết bị chuyên nghiệp tại sự kiện thể thao hấp dẫn.
-equestrianism_129.jpg	Tư thế nghiêm túc của nhiếp ảnh gia giữa không gian thể thao tạo ra sự hồi hộp chờ đợi.
 equestrianism_13.jpg	Một vận động viên cưỡi ngựa đang bay bật qua các trở ngại trong không gian rộng lớn.  
 equestrianism_13.jpg	vận động viên mặc áo vest đen, cưỡi ngựa sùi lưng trong một bối cảnh huấn luyện.  
 equestrianism_13.jpg	Người cưỡi ngựa hồi hộp kiểm soát chiến mã giữa bãi cát rộng, thời tiết ảm đạm.  
@@ -4282,11 +4253,6 @@ equestrianism_16.jpg	Các khán giả theo dõi hồi hộp trong không khí n�
 equestrianism_16.jpg	Ngựa và người cưỡi gặp khó khăn trong cú nhảy, tạo nên khoảnh khắc bất ngờ.  
 equestrianism_16.jpg	Thể hiện sự dũng cảm, người cưỡi đang đối mặt với thử thách khó khăn trên đường đua.  
 equestrianism_16.jpg	Khung cảnh ánh nắng rực rỡ, sự hồi hộp lan tỏa giữa các cổ động viên trên sân.  
-equestrianism_17.jpg	Cận cảnh màn hình máy ảnh, tinh chỉnh cài đặt cân bằng trắng cho bức ảnh chất lượng cao.  
-equestrianism_17.jpg	Người chụp đang điều chỉnh nhiệt độ màu, chuẩn bị cho một buổi chụp hình chuyên nghiệp.  
-equestrianism_17.jpg	Khung cảnh thể hiện rõ sự tập trung, chuẩn bị cho những khoảnh khắc thể thao đáng nhớ.  
-equestrianism_17.jpg	Máy ảnh chuyên dụng đang được điều chỉnh, thể hiện sự chuẩn bị kỹ lưỡng cho buổi chụp.  
-equestrianism_17.jpg	Vận động viên đang kiểm tra cài đặt máy ảnh, sẵn sàng cho những khoảnh khắc thể thao quan trọng.  
 equestrianism_18.jpg	Con ngựa đang đẩy mạnh trên cát, chân sau nâng cao thể hiện sức mạnh.  
 equestrianism_18.jpg	Vận động viên tập trung, giữ thăng bằng khi ngựa lao về phía trước nhanh chóng.  
 equestrianism_18.jpg	Một khoảnh khắc mãnh liệt, ngựa hạ thấp mình, chuẩn bị cho cú nhảy sắp tới.  
@@ -5423,15 +5389,10 @@ skiing_105.jpg	Cánh tay trải rộng của vận động viên cho thấy sự
 skiing_105.jpg	Vận động viên trong trang phục màu đỏ nổi bật, đang nằm giữa một cánh rừng hoang sơ.
 skiing_105.jpg	Một khoảnh khắc thú vị của môn trượt tuyết, với vận động viên vẫn chưa thoát ra khỏi vũng tuyết.
 skiing_106.jpg	Người trượt tuyết đang thực hiện cú nhảy kỹ thuật qua thanh chắn trên mặt tuyết.
-skiing_106.jpg	Vận động viên mặc trang phục màu sắc sống động, bay bổng trong không gian trắng tinh khiết.
 skiing_106.jpg	Tư thế vững chãi, tay giữ chắc gậy, thể hiện sự kiểm soát tuyệt vời trên đoạn đường trượt.
 skiing_106.jpg	Cú nhảy ngoạn mục này thể hiện sự dũng cảm và kỹ năng của vận động viên trượt tuyết.
-skiing_106.jpg	Phông nền đơn sắc tăng cường sự tập trung vào năng lượng và kỹ thuật của vận động viên trong hành động.
-skiing_106.jpg	Vận động viên đang thực hiện một cú nhảy ấn tượng trên đoạn đường trượt tuyết.  
-skiing_106.jpg	Người trượt tuyết bay lên không trung, giữ thăng bằng hoàn hảo trên đôi ván.  
-skiing_106.jpg	Cú ngoặt mạo hiểm trên không, thể hiện kỹ thuật và sự tự tin đáng kinh ngạc.  
+skiing_106.jpg	Vận động viên đang thực hiện một cú nhảy ấn tượng trên đoạn đường trượt tuyết.    
 skiing_106.jpg	Với tư thế ổn định, vận động viên vượt qua chướng ngại vật một cách ấn tượng.  
-skiing_106.jpg	Tuyết trắng xóa làm nền, tạo nên khung cảnh tuyệt đẹp cho màn biểu diễn thể thao này.  
 skiing_107.jpg	Vận động viên trượt tuyết đang cố gắng giữ thăng bằng giữa cơn bão tuyết dày đặc.  
 skiing_107.jpg	Người trượt tuyết nằm trên sườn đồi, chân vươn cao với bộ gh ski chắc chắn.  
 skiing_107.jpg	Trong cảnh tuyết rơi, vận động viên trượt tuyết gặp khó khăn với động tác ngã ngoạn mục.  
@@ -6497,11 +6458,6 @@ soccer_63.jpg	Vận động viên trong bộ trang phục đỏ thực hiện đ
 soccer_63.jpg	Cú sút mạnh mẽ của cầu thủ đang bay lượn, tạo nên khoảnh khắc mãn nhãn trong trận đấu.  
 soccer_63.jpg	Người chơi năng động ở giữa sân, thể hiện khả năng dứt điểm xuất sắc với tư thế khó.  
 soccer_63.jpg	Trong bầu không khí cuồng nhiệt, vận động viên dũng mãnh thực hiện động tác sút bóng độc đáo.  
-soccer_63.jpg  Cú nhảy dũng mãnh diễn ra trong bối cảnh khán giả cổ vũ nhiệt liệt cho đội nhà.
-soccer_63.jpg  Hiện diện trong trang phục đỏ, cầu thủ lướt đi giữa ánh đèn sân vận động sáng rực.
-soccer_63.jpg  Không khí cuồng nhiệt, vận động viên nhắm đến bóng trong khoảnh khắc kịch tính.
-soccer_63.jpg  Vận động viên đang bay người thực hiện cú bắt bóng ngoạn mục trên sân bóng đá.
-soccer_63.jpg  Với tư thế quyết đoán, cầu thủ thể hiện kỹ thuật điêu luyện trên không trung.
 soccer_64.jpg	Người chơi nhảy lên cao, đánh đầu bóng mạnh mẽ trong một trận bóng quyết liệt.  
 soccer_64.jpg	Với mái tóc tung bay, vận động viên thể hiện kỹ năng kiểm soát bóng xuất sắc.  
 soccer_64.jpg	Bóng lăn trên không trung, tạo nên khoảnh khắc kịch tính trong không khí sân vận động.  
@@ -6657,11 +6613,6 @@ soccer_91.jpg	Vận động viên đang thực hiện động tác giãn cơ, c�
 soccer_91.jpg	Trời nắng, cầu thủ trong trang phục thể thao đang chuẩn bị khởi động trước trận đấu.  
 soccer_91.jpg	Cầu thủ chăm chú kéo giãn bắp chân, tạo nền tảng sức mạnh cho buổi tập luyện.  
 soccer_91.jpg	Trên sân cỏ nhân tạo, vận động viên đang thực hiện giãn cơ một cách chuyên nghiệp và chăm chỉ.  
-soccer_91.jpg  Cầu thủ trong trang phục thể thao đỏ, tập trung kéo dãn cơ chân chuẩn bị thi đấu.  
-soccer_91.jpg  Không gian sân cỏ lý tưởng, vận động viên thực hiện bài tập kéo cơ hiệu quả.  
-soccer_91.jpg  Người chơi thực hiện động tác khởi động, bóng đang nằm ở gần chân.  
-soccer_91.jpg  Trời nắng đẹp, cầu thủ chăm sóc cơ thể bằng cách kéo giãn để hạn chế chấn thương.  
-soccer_91.jpg  Vận động viên đang kéo giãn cơ bắp trước trận đấu trên sân cỏ xanh mướt.  
 soccer_92.jpg	Chân trái đang thực hiện cú sút tuyệt đẹp, cầu thủ bay trong không trung, trời đang mưa.  
 soccer_92.jpg	Vận động viên mặc áo trắng, tư thế dứt điểm đầy uy lực, không gian đầy thách thức.  
 soccer_92.jpg	Mô hình cầu thủ cao ráo tương tác với quả bóng, cỏ ướt, bầu trời âm u phía trên.  
@@ -7962,11 +7913,6 @@ tennis_12.jpg	Cô ấy đang vươn mình để chạm bóng, thể hiện kỹ 
 tennis_12.jpg	Trong trang phục thoải mái, vận động viên thể hiện sức mạnh và sự linh hoạt trên sân.  
 tennis_12.jpg	Mặt sân rộng lớn và ánh sáng tự nhiên tạo nên không khí đầy năng động cho trận đấu.  
 tennis_12.jpg	Cú tennis được thực hiện với động tác chuẩn xác, thể hiện sự phối hợp tuyệt vời giữa tay và mắt.  
-tennis_12.jpg Cô ấy vươn người trong một khoảnh khắc quyết định, chuẩn bị cho cú đánh chuẩn xác.
-tennis_12.jpg Một vận động viên nữ đang thực hiện cú đánh bóng mạnh mẽ trong một trận tennis.
-tennis_12.jpg Trong chiếc áo hoodie đen, vận động viên tấn công với sức mạnh và sự quyết tâm.
-tennis_12.jpg Trên sân cỏ, cô gái tận dụng tối đa cú đánh khi bóng chạm đất.
-tennis_12.jpg Với tư thế mạnh mẽ, cô ấy chuẩn bị phát bóng trên sân tennis ngoài trời.
 tennis_120.jpg	Vận động viên đang ngã ra sau, chạm đất để trả một cú bóng bằng vợt.
 tennis_120.jpg	Trong tư thế khó khăn, cầu thủ cố gắng đánh trả bóng trên mặt sân đất nện.
 tennis_120.jpg	Góc nhìn mạnh mẽ, vận động viên dồn sức vào cú đánh trong trận đấu tennis kịch tính.
@@ -8601,12 +8547,7 @@ volleyball_12.jpg	Người chơi đặt tay chuẩn bị phát bóng, môi trư�
 volleyball_12.jpg	Vận động viên cầm bóng phía trên đầu, thể hiện quyết tâm trong mỗi cú phát.  
 volleyball_12.jpg	Động tác phát bóng chắc chắn, ánh mắt hướng về phía đồng đội đang chờ đợi.  
 volleyball_12.jpg	Với trang phục màu sắc rực rỡ, vận động viên thể hiện sự tự tin trên sân đấu.  
-volleyball_12.jpg	Cú phát bóng chuẩn xác, khiến khán giả hồi hộp chờ đợi diễn biến tiếp theo.  
-volleyball_12.jpg Cô gái trong trang phục thể thao chuyên nghiệp, thể hiện kỹ thuật chuyền bóng hoàn hảo giữa sân.  
-volleyball_12.jpg Trong không gian thi đấu sôi động, pha bóng nguy hiểm này đang hứa hẹn sẽ tạo ra điểm số.
-volleyball_12.jpg Vận động viên đang giơ tay lên cao, chuẩn bị phát bóng cho đồng đội trong không khí sôi động.  
-volleyball_12.jpg Với ánh mắt quyết tâm, vận động viên thực hiện động tác chuyền bóng đi chính xác như mong đợi.  
-volleyball_12.jpg Đội bóng chuyền đang chuẩn bị cho một pha chuyền bóng chính xác, tập trung cao độ.  
+volleyball_12.jpg	Cú phát bóng chuẩn xác, khiến khán giả hồi hộp chờ đợi diễn biến tiếp theo.    
 volleyball_13.jpg	Người vận động viên bật nhảy mạnh mẽ, chuẩn bị thực hiện cú đập bóng quyết định.  
 volleyball_13.jpg	Với trang phục đỏ nổi bật, cầu thủ thể hiện kỹ thuật đập bóng hoàn hảo qua lưới.  
 volleyball_13.jpg	Cú nhảy cao, tay thẳng để bóng đi đúng hướng, mang đến sự hồi hộp cho khán giả.  
@@ -9076,4 +9017,4 @@ volleyball_99.jpg	Đội hình tập trung lại, chuẩn bị cho trận đấu
 volleyball_99.jpg	Các vận động viên mặc trang phục đồng bộ, thể hiện tinh thần đoàn kết trước giờ xuất trận.  
 volleyball_99.jpg	Tiếng hô hào khích lệ, tạo ra khí thế cho đội bóng chuyền trước thềm trận đấu quyết liệt.  
 volleyball_99.jpg	Hình ảnh tập hợp gần gũi, thể hiện sự gắn bó và quyết tâm của các nữ vận động viên.  
-volleyball_99.jpg	Các vận động viên trao đổi chiến thuật, thể hiện sự chuẩn bị kỹ lưỡng cho trận đấu bóng chuyền.  
+volleyball_99.jpg	Các vận động viên trao đổi chiến thuật, thể hiện sự chuẩn bị kỹ lưỡng cho trận đấu bóng chuyền.
