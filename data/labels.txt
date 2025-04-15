@@ -221,7 +221,6 @@ badminton_1.jpg,badminton
 badminton_10.jpg,badminton
 badminton_100.jpg,badminton
 badminton_101.jpg,badminton
-badminton_102.jpg,badminton
 badminton_11.jpg,badminton
 badminton_12.jpg,badminton
 badminton_13.jpg,badminton
@@ -245,7 +244,6 @@ badminton_29.jpg,badminton
 badminton_3.jpg,badminton
 badminton_30.jpg,badminton
 badminton_31.jpg,badminton
-badminton_32.jpg,badminton
 badminton_33.jpg,badminton
 badminton_34.jpg,badminton
 badminton_35.jpg,badminton
@@ -253,7 +251,6 @@ badminton_36.jpg,badminton
 badminton_37.jpg,badminton
 badminton_38.jpg,badminton
 badminton_39.jpg,badminton
-badminton_4.jpg,badminton
 badminton_40.jpg,badminton
 badminton_41.jpg,badminton
 badminton_42.jpg,badminton
@@ -354,7 +351,7 @@ baseball_25.jpg,baseball
 baseball_26.jpg,baseball
 baseball_27.jpg,baseball
 baseball_28.jpg,baseball
-baseball_29.jpg,baseball
+baseball_29.png,baseball
 baseball_3.jpg,baseball
 baseball_30.jpg,baseball
 baseball_31.jpg,baseball
@@ -396,7 +393,7 @@ baseball_63.jpg,baseball
 baseball_64.jpg,baseball
 baseball_65.jpg,baseball
 baseball_66.jpg,baseball
-baseball_67.jpg,baseball
+baseball_67.png,baseball
 baseball_68.jpg,baseball
 baseball_69.jpg,baseball
 baseball_7.jpg,baseball
@@ -470,7 +467,6 @@ basketball_14.jpg,basketball
 basketball_15.jpg,basketball
 basketball_16.jpg,basketball
 basketball_17.jpg,basketball
-basketball_18.jpg,basketball
 basketball_19.jpg,basketball
 basketball_2.jpg,basketball
 basketball_20.jpg,basketball
@@ -835,7 +831,6 @@ equestrianism_125.jpg,equestrianism
 equestrianism_126.jpg,equestrianism
 equestrianism_127.jpg,equestrianism
 equestrianism_128.jpg,equestrianism
-equestrianism_129.jpg,equestrianism
 equestrianism_13.jpg,equestrianism
 equestrianism_130.jpg,equestrianism
 equestrianism_131.jpg,equestrianism
@@ -847,16 +842,13 @@ equestrianism_136.jpg,equestrianism
 equestrianism_137.jpg,equestrianism
 equestrianism_138.jpg,equestrianism
 equestrianism_139.jpg,equestrianism
-equestrianism_14.jpg,equestrianism
 equestrianism_140.jpg,equestrianism
 equestrianism_141.jpg,equestrianism
 equestrianism_142.jpg,equestrianism
 equestrianism_143.jpg,equestrianism
 equestrianism_144.jpg,equestrianism
 equestrianism_145.jpg,equestrianism
-equestrianism_15.jpg,equestrianism
 equestrianism_16.jpg,equestrianism
-equestrianism_17.jpg,equestrianism
 equestrianism_18.jpg,equestrianism
 equestrianism_19.jpg,equestrianism
 equestrianism_2.jpg,equestrianism
@@ -1529,7 +1521,7 @@ swimming_64.jpg,swimming
 swimming_65.jpg,swimming
 swimming_66.jpg,swimming
 swimming_67.jpg,swimming
-swimming_68.jpg,swimming
+swimming_68.png,swimming
 swimming_69.jpg,swimming
 swimming_7.jpg,swimming
 swimming_70.jpg,swimming
@@ -1795,7 +1787,6 @@ volleyball_81.jpg,volleyball
 volleyball_82.jpg,volleyball
 volleyball_83.jpg,volleyball
 volleyball_84.jpg,volleyball
-volleyball_85.jpg,volleyball
 volleyball_86.jpg,volleyball
 volleyball_87.jpg,volleyball
 volleyball_88.jpg,volleyball
