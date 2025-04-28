@@ -141,26 +141,26 @@
 100000000940.jpg,lướt_sóng
 100000000941.jpg,lướt_sóng
 100000000942.jpg,lướt_sóng
-100000001052.jpg,bắn cung
-100000001053.jpg,bắn cung
-100000001054.jpg,bắn cung
-100000001055.jpg,bắn cung
-100000001056.jpg,bắn cung
-100000001057.jpg,bắn cung
-100000001058.jpg,bắn cung
-100000001059.jpg,bắn cung
-100000001060.jpg,bắn cung
-100000001061.jpg,bắn cung
-100000001062.jpg,bắn cung
-100000001063.jpg,bắn cung
-100000001064.jpg,bắn cung
-100000001065.jpg,bắn cung
-100000001066.jpg,bắn cung
-100000001067.jpg,bắn cung
-100000001068.jpg,bắn cung
-100000001069.jpg,bắn cung
-100000001070.jpg,bắn cung
-100000001071.jpg,bắn cung
+100000001052.jpg,bắn_cung
+100000001053.jpg,bắn_cung
+100000001054.jpg,bắn_cung
+100000001055.jpg,bắn_cung
+100000001056.jpg,bắn_cung
+100000001057.jpg,bắn_cung
+100000001058.jpg,bắn_cung
+100000001059.jpg,bắn_cung
+100000001060.jpg,bắn_cung
+100000001061.jpg,bắn_cung
+100000001062.jpg,bắn_cung
+100000001063.jpg,bắn_cung
+100000001064.jpg,bắn_cung
+100000001065.jpg,bắn_cung
+100000001066.jpg,bắn_cung
+100000001067.jpg,bắn_cung
+100000001068.jpg,bắn_cung
+100000001069.jpg,bắn_cung
+100000001070.jpg,bắn_cung
+100000001071.jpg,bắn_cung
 100000001152.jpg,điền_kinh
 100000001153.jpg,điền_kinh
 100000001154.jpg,điền_kinh
@@ -174,27 +174,27 @@
 100000001162.jpg,điền_kinh
 100000001163.jpg,điền_kinh
 100000001164.jpg,điền_kinh
-100000001278.jpg,cưỡi ngựa
-100000001279.jpg,cưỡi ngựa
-100000001280.jpg,cưỡi ngựa
-100000001281.jpg,cưỡi ngựa
-100000001282.jpg,cưỡi ngựa
-100000001283.jpg,cưỡi ngựa
-100000001284.jpg,cưỡi ngựa
-100000001285.jpg,cưỡi ngựa
-100000001286.jpg,cưỡi ngựa
-100000001287.jpg,cưỡi ngựa
-100000001288.jpg,cưỡi ngựa
-100000001289.jpg,cưỡi ngựa
-100000001290.jpg,cưỡi ngựa
-100000001291.jpg,cưỡi ngựa
-100000001292.jpg,cưỡi ngựa
-100000001293.jpg,cưỡi ngựa
-100000001294.jpg,cưỡi ngựa
-100000001295.jpg,cưỡi ngựa
-100000001296.jpg,cưỡi ngựa
-100000001297.jpg,cưỡi ngựa
-100000001298.jpg,cưỡi ngựa
+100000001278.jpg,cưỡi_ngựa
+100000001279.jpg,cưỡi_ngựa
+100000001280.jpg,cưỡi_ngựa
+100000001281.jpg,cưỡi_ngựa
+100000001282.jpg,cưỡi_ngựa
+100000001283.jpg,cưỡi_ngựa
+100000001284.jpg,cưỡi_ngựa
+100000001285.jpg,cưỡi_ngựa
+100000001286.jpg,cưỡi_ngựa
+100000001287.jpg,cưỡi_ngựa
+100000001288.jpg,cưỡi_ngựa
+100000001289.jpg,cưỡi_ngựa
+100000001290.jpg,cưỡi_ngựa
+100000001291.jpg,cưỡi_ngựa
+100000001292.jpg,cưỡi_ngựa
+100000001293.jpg,cưỡi_ngựa
+100000001294.jpg,cưỡi_ngựa
+100000001295.jpg,cưỡi_ngựa
+100000001296.jpg,cưỡi_ngựa
+100000001297.jpg,cưỡi_ngựa
+100000001298.jpg,cưỡi_ngựa
 100000001402.jpg,boxing
 100000001403.jpg,boxing
 100000001404.jpg,boxing
@@ -249,22 +249,22 @@
 100000001659.jpg,trượt_tuyết
 100000001660.jpg,trượt_tuyết
 100000001661.jpg,trượt_tuyết
-100000001766.jpg,đạp xe
-100000001767.jpg,đạp xe
-100000001768.jpg,đạp xe
-100000001769.jpg,đạp xe
-100000001770.jpg,đạp xe
-100000001771.jpg,đạp xe
-100000001772.jpg,đạp xe
-100000001773.jpg,đạp xe
-100000001774.jpg,đạp xe
-100000001775.jpg,đạp xe
-100000001776.jpg,đạp xe
-100000001777.jpg,đạp xe
-100000001778.jpg,đạp xe
-100000001779.jpg,đạp xe
-100000001780.jpg,đạp xe
-100000001781.jpg,đạp xe
-100000001782.jpg,đạp xe
-100000001783.jpg,đạp xe
-100000001784.jpg,đạp xe
+100000001766.jpg,đạp_xe
+100000001767.jpg,đạp_xe
+100000001768.jpg,đạp_xe
+100000001769.jpg,đạp_xe
+100000001770.jpg,đạp_xe
+100000001771.jpg,đạp_xe
+100000001772.jpg,đạp_xe
+100000001773.jpg,đạp_xe
+100000001774.jpg,đạp_xe
+100000001775.jpg,đạp_xe
+100000001776.jpg,đạp_xe
+100000001777.jpg,đạp_xe
+100000001778.jpg,đạp_xe
+100000001779.jpg,đạp_xe
+100000001780.jpg,đạp_xe
+100000001781.jpg,đạp_xe
+100000001782.jpg,đạp_xe
+100000001783.jpg,đạp_xe
+100000001784.jpg,đạp_xe
